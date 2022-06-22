@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/texttospeech.iml" filepath="$PROJECT_DIR$/.idea/modules/texttospeech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/texttospeech.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/texttospeech.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/texttospeech.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/texttospeech.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/texttospeech.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/texttospeech.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/texttospeech.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/texttospeech.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
